@@ -83,8 +83,8 @@ header {
     
 }
 
-p {
-    font-family: Stalemate;
+.p2 {
+    font-family: garamond;
     font-size: 3rem;
     color: #330033;
     text-align: center;
@@ -103,22 +103,6 @@ p {
     margin: 5px;
     margin-bottom: 2rem;
     line-height: 4rem;
-}
-    
-    
-.p2 {
-    font-family: Stalemate;
-    font-size: 3rem;
-    text-align: center;
-    padding: 1rem;
-    margin: 0 0 0rem;
-    line-height: 0; 
-    margin-bottom: 2rem;
-}
-
-
-.peaches {
-   position: a
 }
 
 .footer {
