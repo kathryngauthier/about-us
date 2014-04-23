@@ -17,11 +17,126 @@ html {
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
 	text-size-adjust: 100%;
-    
     font-size: 100%;
 }
 
 img {
 	width: 100%;
     display: block;
+}
+
+header { 
+    background-color: #330033;
+    height: 4rem;
+    margin: 0;
+    padding: 0;
+}
+.logo {
+    margin: left;
+    width: 6rem;
+    height: auto;
+}
+
+
+.nav-top {
+    margin: 0;
+    padding: 4px;
+    height: 3rem;
+}
+
+.nav1 {
+    margin: 0;
+    padding: 15px;
+    font-family: garamond;
+    font-size: 1.5rem;
+    color: white;
+    display: inline;
+    background-color: #330033;    
+}
+
+.nav2 {
+    margin: 0;
+    padding: 15px;
+    font-family: garamond;
+    font-size: 1.5rem;
+    color: white;
+    display: inline;
+    background-color: #330033;  
+}
+
+.nav3 {
+    margin: 0;
+    padding: 15px;
+    font-family: garamond;
+    font-size: 1.5rem;
+    color: white;
+    display: inline;
+    background-color: #330033;  
+}
+
+.hr {
+    margin-top: 1.3rem;
+    background-color:#330033;
+    align-content: center;
+    width: 19rem;
+    
+    
+}
+
+p {
+    font-family: Stalemate;
+    font-size: 3rem;
+    color: #330033;
+    text-align: center;
+    padding: 1rem;
+    margin: 0 0 0rem;
+    margin-top: 5rem;
+    line-height: 0;
+}
+        
+.h1 {
+    font-family: garamond;
+    font-size: 5rem;
+    color: #fc9e49;
+    text-align: center;
+    padding: 0;
+    margin: 5px;
+    margin-bottom: 2rem;
+    line-height: 4rem;
+}
+    
+    
+.p2 {
+    font-family: Stalemate;
+    font-size: 3rem;
+    text-align: center;
+    padding: 1rem;
+    margin: 0 0 0rem;
+    line-height: 0; 
+    margin-bottom: 2rem;
+}
+
+
+.peaches {
+   position: a
+}
+
+.footer {
+    background-color: #330033;
+    height: 4rem;
+}
+
+.footer2 {
+    margin: 6px;
+    height: 4rem;
+    width: auto;
+}
+
+.nav a, 
+.nav a:link
+.nav a:visited {
+    color: white;
+    text-decoration: none;
+    font-size: .875rem;
+    line-height: 1.5rem
 }
